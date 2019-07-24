@@ -1,0 +1,12 @@
+server:
+  port: 8072
+
+spring:
+  application:
+    name: rabbitmq-client
+
+  rabbitmq:
+    host: 服务器地址
+    port: 5672
+    username: 账号
+    password: 密码
